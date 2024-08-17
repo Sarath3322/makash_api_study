@@ -1,0 +1,6 @@
+@makash_api_study_HostAddress = http://localhost:5294
+
+GET {{makash_api_study_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
